@@ -39,5 +39,3 @@ NumPy
 Pandas
 
 TensorFlow / Keras
-
-
